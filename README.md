@@ -7,6 +7,9 @@ Io ho realizzato il mio obiettivo tramite:
 
 Vi racconto come ho configurato tutti i miei servizi, le immagini docker utilizzate, le alternative migliori, tutti in un'unico posto. Ho deciso di raccontare tutto in 3 capitoli : 
 
-[[RasberryPi - L'inizio di tutto]]
-[[Docker - La semplicità dell'isolamento]]
-[[Cloudflare - Hello Internet]]
+1. [RasberryPi - L'inizio di tutto](RasberryPi - L'inizio di tutto.md)
+2. [Docker - La semplicità dell'isolamento](Docker - La semplicità dell'isolamento.md)
+3. [Cloudflare - Hello Internet](Cloudflare - Hello Internet.md)
+
+
+
