@@ -1,0 +1,5 @@
+1. [Che cosa è una Raspberry Pi?]
+2. [Pi 5 vs ZimaBoard vs ZimaBlade]
+3. [Sistema operativo]
+4. [Configurazione iniziale]
+5. [Iniziamo a virtualizzare...]
